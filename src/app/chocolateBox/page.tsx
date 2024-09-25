@@ -1,5 +1,6 @@
-import ChocolateCard from "@/components/ChocolateCard"; 
-import HeroSection from "@/components/HeroSection";
+import ChocolateCard from '@/components/ChocolateCard';
+import HeroSection from '@/components/HeroSection';
+
 
 export default function Home() {
   const ChocolateBox = [
